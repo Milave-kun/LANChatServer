@@ -28,7 +28,7 @@ Partial Class frmServer
         ' 
         ' lstLogs
         ' 
-        lstLogs.BackColor = Color.Black
+        lstLogs.BackColor = Color.FromArgb(CByte(32), CByte(34), CByte(37))
         lstLogs.BorderStyle = BorderStyle.FixedSingle
         lstLogs.ForeColor = Color.White
         lstLogs.FormattingEnabled = True
@@ -52,7 +52,7 @@ Partial Class frmServer
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = Color.Black
+        BackColor = Color.FromArgb(CByte(32), CByte(34), CByte(37))
         ClientSize = New Size(800, 450)
         Controls.Add(btnStartServer)
         Controls.Add(lstLogs)

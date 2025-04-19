@@ -158,4 +158,7 @@ Public Class frmServer
         End SyncLock
     End Sub
 
+    Private Sub frmServer_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
