@@ -1,3 +1,4 @@
 # LANChatServer
-![image](https://github.com/user-attachments/assets/bc05b173-fadb-4b0f-816f-7f89811f6fd6)
+![image](https://github.com/user-attachments/assets/ce7b3ae3-9778-4191-903a-7ceda91bf868)
+
 
